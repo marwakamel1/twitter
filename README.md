@@ -1,6 +1,6 @@
 # twitter
 
-react-redux app , able the users to tweet , reply or like tweets
+react-redux app , able the users to tweet , reply and like tweets
 
 run using :
  npm install
